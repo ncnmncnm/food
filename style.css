@@ -1,0 +1,14 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.meal {
+  margin-bottom: 30px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
